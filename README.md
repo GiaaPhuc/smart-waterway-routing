@@ -94,7 +94,7 @@ Giao diện frontend được xây dựng bằng **Next.js 14** với bản đ�
 │  │  API Router  │  │ Routing      │  │  ML (ETA Model)      │  │
 │  │  /api/route  │→ │ Engine       │  │  XGBoost / Fallback  │  │
 │  │  /api/graph  │  │ A* / Dijkstra│  │  Formula             │  │
-│  └──────────────┘  └──────┬───────┘  └──────────────────────┘  │
+│  └──────────────┘  └───────┬──────┘  └──────────────────────┘  │
 │                            │                                   │
 │  ┌─────────────────────────▼────────────────────────────────┐  │
 │  │                  Data Pipeline                           │  │
