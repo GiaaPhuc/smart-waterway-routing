@@ -141,3 +141,29 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+*.egg-info/
+.eggs/
+dist/
+build/
+*.pyc
+
+# Data files
+backend/data/
+*.joblib
+*.pkl
+*.graphml
+*.gpickle
+
+# OS
+.DS_Store
+Thumbs.db
