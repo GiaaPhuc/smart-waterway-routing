@@ -1,4 +1,4 @@
-# Smart Waterway Routing
+# 🚢Smart Waterway Routing
 
 > Hệ thống định tuyến thông minh cho phương tiện đường thủy nội địa, tích hợp thuật toán tìm đường trên mạng lưới sông/kênh (OpenStreetMap) và mô hình AI/ML dự đoán thời gian di chuyển (ETA).
 
