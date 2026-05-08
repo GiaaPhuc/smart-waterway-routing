@@ -2,7 +2,7 @@
   
 # 🚢Smart Waterway Routing
 
-> Hệ thống định tuyến thông minh cho phương tiện đường thủy nội địa, tích hợp thuật toán tìm đường trên mạng lưới sông/kênh (OpenStreetMap) và mô hình AI/ML dự đoán thời gian di chuyển (ETA).
+Hệ thống định tuyến thông minh cho phương tiện đường thủy nội địa, tích hợp thuật toán tìm đường trên mạng lưới sông/kênh (OpenStreetMap) và mô hình AI/ML dự đoán thời gian di chuyển (ETA).
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?logo=fastapi)
