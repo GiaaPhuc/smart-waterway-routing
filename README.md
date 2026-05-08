@@ -1,3 +1,5 @@
+<div align="center">
+  
 # 🚢Smart Waterway Routing
 
 > Hệ thống định tuyến thông minh cho phương tiện đường thủy nội địa, tích hợp thuật toán tìm đường trên mạng lưới sông/kênh (OpenStreetMap) và mô hình AI/ML dự đoán thời gian di chuyển (ETA).
@@ -8,6 +10,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+PostGIS-336791?logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker)
 ![License](https://img.shields.io/badge/License-MIT-green)
+
+</div>
 
 ---
 
